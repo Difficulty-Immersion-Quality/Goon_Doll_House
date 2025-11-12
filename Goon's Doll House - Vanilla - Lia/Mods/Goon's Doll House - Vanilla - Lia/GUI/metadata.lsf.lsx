@@ -7,7 +7,7 @@
 				<node id="entries">
 					<children>
 						<node id="Object">
-							<attribute id="MapKey" type="FixedString" value="b56ffb32-acf6-5bc6-dc73-5948aa951e35-EQP_Shortbow_(Icon_Tiefling_Female).png" />
+							<attribute id="MapKey" type="FixedString" value="Assets/Portraits/b56ffb32-acf6-5bc6-dc73-5948aa951e35-EQP_Shortbow_(Icon_Tiefling_Female).png" />
 							<children>
 								<node id="entries">
 									<attribute id="h" type="int16" value="152" />
@@ -17,7 +17,7 @@
 							</children>
 						</node>
 						<node id="Object">
-							<attribute id="MapKey" type="FixedString" value="31582392-aa9f-f61d-5db5-7dccb5347506-_(Icon_Tiefling_Female).png" />
+							<attribute id="MapKey" type="FixedString" value="Assets/Portraits/31582392-aa9f-f61d-5db5-7dccb5347506-_(Icon_Tiefling_Female).png" />
 							<children>
 								<node id="entries">
 									<attribute id="h" type="int16" value="152" />
